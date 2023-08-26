@@ -108,6 +108,7 @@
     justify-content: center;
     /* flex-wrap:wrap; */
     box-shadow: 0.1em 0.1em 0.9em rgba(255, 255, 255, 0.267);
+    margin-bottom: 2em;
     /* max-height:15vh; */
 }
 .job-img-container{
@@ -151,7 +152,7 @@
 }
 .my-pic{
     width:50%;
-    border-radius: 0.3rem;
+    border-radius: 0.5rem;
 }
 .aboutme-container-text{
     margin-left:0;
